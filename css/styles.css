@@ -55,7 +55,7 @@ a {
   background: #2e2f42;
 }
 
-h1 {
+.page-title {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
