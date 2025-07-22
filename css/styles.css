@@ -65,28 +65,30 @@ a {
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #fff;
+  color: #ffffff;
 }
 
-button {
+.button {
   font-family: inherit;
   font-size: 16px;
   font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
   border: none;
   border-radius: 4px;
   padding: 16px 32px;
   cursor: pointer;
+  text-align: center;
 }
 
-button:hover,
-button:focus {
+.button:hover,
+.button:focus {
   background-color: #404bbf;
 }
 
 .section-title {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -104,11 +106,10 @@ h3 {
 }
 
 p {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  text-align: center;
 }
 
 .footer {
@@ -116,7 +117,6 @@ p {
 }
 
 .footer .logo {
-  font-weight: 700;
   font-size: 18px;
   line-height: 1.16;
   letter-spacing: 0.03em;
