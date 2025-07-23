@@ -68,7 +68,7 @@ a {
   color: #ffffff;
 }
 
-.button {
+.order-btn {
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -80,8 +80,8 @@ a {
   cursor: pointer;
 }
 
-.button:hover,
-.button:focus {
+.order-btn:hover,
+.order-btn:focus {
   background-color: #404bbf;
 }
 
