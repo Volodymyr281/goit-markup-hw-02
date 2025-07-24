@@ -103,8 +103,7 @@ a {
 
 .section-our-team {
   background-color: #f4f4fd;
-  background-color: #FFFFFF;
-
+}
 
 .our-team-title {
   font-weight: 700;
@@ -114,6 +113,9 @@ a {
   text-transform: capitalize;
   text-align: center;
   color: #2e2f42;
+}
+.our-team-item {
+  background-color: #ffffff;
 }
 
 .our-team-name {
